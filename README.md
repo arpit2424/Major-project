@@ -15,9 +15,9 @@ Heart Disease Dataset (UCI / Kaggle)
 ## Results
 | Algorithm | Accuracy | F1 Score |
 |---|---|---|
-| Logistic Regression | ~85% | ~0.84 |
-| KNN | ~83% | ~0.82 |
-| Decision Tree | ~79% | ~0.78 |
+| Logistic Regression | ~85.25% | ~0.86 |
+| KNN | ~90.16% | ~0.86 |
+| Decision Tree | ~75.41% | ~0.74 |
 
 ## How to Run
 Open `Major_Project.ipynb` in Google Colab and run chunks in order.
